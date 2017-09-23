@@ -1,0 +1,20 @@
+highlighter: rouge
+
+permalink: :year/:month/:day/:title 
+
+baseurl: /JekyllProjectTemplate
+
+github:
+  project: JekyllProjectTemplate
+  url: https://github.com/RemyG/JekyllProjectTemplate
+
+comments:
+  disqus: remyggithub
+
+title : Jekyll Project Template
+author :
+  name : Rémy Gardette
+  website: http://remyg.ovh
+  email : github@remyg.fr
+  github : RemyG
+  twitter : remygardette
